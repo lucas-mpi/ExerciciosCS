@@ -1,0 +1,14 @@
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\5_Fatorial\obj\Debug\net6.0\5_Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\5_Fatorial\obj\Debug\net6.0\5_Fatorial.AssemblyInfoInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\5_Fatorial\obj\Debug\net6.0\5_Fatorial.AssemblyInfo.cs
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\5_Fatorial\obj\Debug\net6.0\5_Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\5_Fatorial\bin\Debug\net6.0\5_Fatorial.exe
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\5_Fatorial\bin\Debug\net6.0\5_Fatorial.deps.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\5_Fatorial\bin\Debug\net6.0\5_Fatorial.runtimeconfig.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\5_Fatorial\bin\Debug\net6.0\5_Fatorial.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\5_Fatorial\bin\Debug\net6.0\5_Fatorial.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\5_Fatorial\obj\Debug\net6.0\5_Fatorial.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\5_Fatorial\obj\Debug\net6.0\refint\5_Fatorial.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\5_Fatorial\obj\Debug\net6.0\5_Fatorial.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\5_Fatorial\obj\Debug\net6.0\5_Fatorial.genruntimeconfig.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\5_Fatorial\obj\Debug\net6.0\ref\5_Fatorial.dll

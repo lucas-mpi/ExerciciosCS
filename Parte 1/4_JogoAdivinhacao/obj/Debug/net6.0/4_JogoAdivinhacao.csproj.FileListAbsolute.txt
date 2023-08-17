@@ -1,0 +1,14 @@
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\4_JogoAdivinhacao\bin\Debug\net6.0\4_JogoAdivinhacao.exe
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\4_JogoAdivinhacao\bin\Debug\net6.0\4_JogoAdivinhacao.deps.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\4_JogoAdivinhacao\bin\Debug\net6.0\4_JogoAdivinhacao.runtimeconfig.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\4_JogoAdivinhacao\bin\Debug\net6.0\4_JogoAdivinhacao.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\4_JogoAdivinhacao\bin\Debug\net6.0\4_JogoAdivinhacao.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\4_JogoAdivinhacao\obj\Debug\net6.0\4_JogoAdivinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\4_JogoAdivinhacao\obj\Debug\net6.0\4_JogoAdivinhacao.AssemblyInfoInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\4_JogoAdivinhacao\obj\Debug\net6.0\4_JogoAdivinhacao.AssemblyInfo.cs
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\4_JogoAdivinhacao\obj\Debug\net6.0\4_JogoAdivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\4_JogoAdivinhacao\obj\Debug\net6.0\4_JogoAdivinhacao.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\4_JogoAdivinhacao\obj\Debug\net6.0\refint\4_JogoAdivinhacao.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\4_JogoAdivinhacao\obj\Debug\net6.0\4_JogoAdivinhacao.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\4_JogoAdivinhacao\obj\Debug\net6.0\4_JogoAdivinhacao.genruntimeconfig.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\4_JogoAdivinhacao\obj\Debug\net6.0\ref\4_JogoAdivinhacao.dll

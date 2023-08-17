@@ -1,0 +1,14 @@
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\10_PrimeiraUltimaFruta\bin\Debug\net6.0\10_PrimeiraUltimaFruta.exe
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\10_PrimeiraUltimaFruta\bin\Debug\net6.0\10_PrimeiraUltimaFruta.deps.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\10_PrimeiraUltimaFruta\bin\Debug\net6.0\10_PrimeiraUltimaFruta.runtimeconfig.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\10_PrimeiraUltimaFruta\bin\Debug\net6.0\10_PrimeiraUltimaFruta.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\10_PrimeiraUltimaFruta\bin\Debug\net6.0\10_PrimeiraUltimaFruta.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\10_PrimeiraUltimaFruta\obj\Debug\net6.0\10_PrimeiraUltimaFruta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\10_PrimeiraUltimaFruta\obj\Debug\net6.0\10_PrimeiraUltimaFruta.AssemblyInfoInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\10_PrimeiraUltimaFruta\obj\Debug\net6.0\10_PrimeiraUltimaFruta.AssemblyInfo.cs
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\10_PrimeiraUltimaFruta\obj\Debug\net6.0\10_PrimeiraUltimaFruta.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\10_PrimeiraUltimaFruta\obj\Debug\net6.0\10_PrimeiraUltimaFruta.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\10_PrimeiraUltimaFruta\obj\Debug\net6.0\refint\10_PrimeiraUltimaFruta.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\10_PrimeiraUltimaFruta\obj\Debug\net6.0\10_PrimeiraUltimaFruta.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\10_PrimeiraUltimaFruta\obj\Debug\net6.0\10_PrimeiraUltimaFruta.genruntimeconfig.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\10_PrimeiraUltimaFruta\obj\Debug\net6.0\ref\10_PrimeiraUltimaFruta.dll

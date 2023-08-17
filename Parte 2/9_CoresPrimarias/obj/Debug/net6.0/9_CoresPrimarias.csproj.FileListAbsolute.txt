@@ -1,0 +1,14 @@
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\9_CoresPrimarias\obj\Debug\net6.0\9_CoresPrimarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\9_CoresPrimarias\obj\Debug\net6.0\9_CoresPrimarias.AssemblyInfoInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\9_CoresPrimarias\obj\Debug\net6.0\9_CoresPrimarias.AssemblyInfo.cs
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\9_CoresPrimarias\obj\Debug\net6.0\9_CoresPrimarias.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\9_CoresPrimarias\bin\Debug\net6.0\9_CoresPrimarias.exe
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\9_CoresPrimarias\bin\Debug\net6.0\9_CoresPrimarias.deps.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\9_CoresPrimarias\bin\Debug\net6.0\9_CoresPrimarias.runtimeconfig.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\9_CoresPrimarias\bin\Debug\net6.0\9_CoresPrimarias.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\9_CoresPrimarias\bin\Debug\net6.0\9_CoresPrimarias.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\9_CoresPrimarias\obj\Debug\net6.0\9_CoresPrimarias.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\9_CoresPrimarias\obj\Debug\net6.0\refint\9_CoresPrimarias.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\9_CoresPrimarias\obj\Debug\net6.0\9_CoresPrimarias.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\9_CoresPrimarias\obj\Debug\net6.0\9_CoresPrimarias.genruntimeconfig.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\9_CoresPrimarias\obj\Debug\net6.0\ref\9_CoresPrimarias.dll

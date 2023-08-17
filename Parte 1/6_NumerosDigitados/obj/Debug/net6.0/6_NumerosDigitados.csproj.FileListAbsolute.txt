@@ -1,0 +1,14 @@
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\6_NumerosDigitados\bin\Debug\net6.0\6_NumerosDigitados.exe
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\6_NumerosDigitados\bin\Debug\net6.0\6_NumerosDigitados.deps.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\6_NumerosDigitados\bin\Debug\net6.0\6_NumerosDigitados.runtimeconfig.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\6_NumerosDigitados\bin\Debug\net6.0\6_NumerosDigitados.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\6_NumerosDigitados\bin\Debug\net6.0\6_NumerosDigitados.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\6_NumerosDigitados\obj\Debug\net6.0\6_NumerosDigitados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\6_NumerosDigitados\obj\Debug\net6.0\6_NumerosDigitados.AssemblyInfoInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\6_NumerosDigitados\obj\Debug\net6.0\6_NumerosDigitados.AssemblyInfo.cs
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\6_NumerosDigitados\obj\Debug\net6.0\6_NumerosDigitados.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\6_NumerosDigitados\obj\Debug\net6.0\6_NumerosDigitados.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\6_NumerosDigitados\obj\Debug\net6.0\refint\6_NumerosDigitados.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\6_NumerosDigitados\obj\Debug\net6.0\6_NumerosDigitados.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\6_NumerosDigitados\obj\Debug\net6.0\6_NumerosDigitados.genruntimeconfig.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\6_NumerosDigitados\obj\Debug\net6.0\ref\6_NumerosDigitados.dll

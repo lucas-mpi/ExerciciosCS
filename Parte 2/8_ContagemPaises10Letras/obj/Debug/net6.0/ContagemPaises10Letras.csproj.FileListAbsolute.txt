@@ -1,0 +1,14 @@
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\ContagemPaises10Letras\bin\Debug\net6.0\ContagemPaises10Letras.exe
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\ContagemPaises10Letras\bin\Debug\net6.0\ContagemPaises10Letras.deps.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\ContagemPaises10Letras\bin\Debug\net6.0\ContagemPaises10Letras.runtimeconfig.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\ContagemPaises10Letras\bin\Debug\net6.0\ContagemPaises10Letras.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\ContagemPaises10Letras\bin\Debug\net6.0\ContagemPaises10Letras.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\ContagemPaises10Letras\obj\Debug\net6.0\ContagemPaises10Letras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\ContagemPaises10Letras\obj\Debug\net6.0\ContagemPaises10Letras.AssemblyInfoInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\ContagemPaises10Letras\obj\Debug\net6.0\ContagemPaises10Letras.AssemblyInfo.cs
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\ContagemPaises10Letras\obj\Debug\net6.0\ContagemPaises10Letras.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\ContagemPaises10Letras\obj\Debug\net6.0\ContagemPaises10Letras.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\ContagemPaises10Letras\obj\Debug\net6.0\refint\ContagemPaises10Letras.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\ContagemPaises10Letras\obj\Debug\net6.0\ContagemPaises10Letras.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\ContagemPaises10Letras\obj\Debug\net6.0\ContagemPaises10Letras.genruntimeconfig.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\ContagemPaises10Letras\obj\Debug\net6.0\ref\ContagemPaises10Letras.dll

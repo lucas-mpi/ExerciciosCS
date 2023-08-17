@@ -1,0 +1,14 @@
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\1_ContagemNumerosPares\bin\Debug\net6.0\1_ContagemNumerosPares.exe
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\1_ContagemNumerosPares\bin\Debug\net6.0\1_ContagemNumerosPares.deps.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\1_ContagemNumerosPares\bin\Debug\net6.0\1_ContagemNumerosPares.runtimeconfig.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\1_ContagemNumerosPares\bin\Debug\net6.0\1_ContagemNumerosPares.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\1_ContagemNumerosPares\bin\Debug\net6.0\1_ContagemNumerosPares.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\1_ContagemNumerosPares\obj\Debug\net6.0\1_ContagemNumerosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\1_ContagemNumerosPares\obj\Debug\net6.0\1_ContagemNumerosPares.AssemblyInfoInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\1_ContagemNumerosPares\obj\Debug\net6.0\1_ContagemNumerosPares.AssemblyInfo.cs
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\1_ContagemNumerosPares\obj\Debug\net6.0\1_ContagemNumerosPares.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\1_ContagemNumerosPares\obj\Debug\net6.0\1_ContagemNumerosPares.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\1_ContagemNumerosPares\obj\Debug\net6.0\refint\1_ContagemNumerosPares.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\1_ContagemNumerosPares\obj\Debug\net6.0\1_ContagemNumerosPares.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\1_ContagemNumerosPares\obj\Debug\net6.0\1_ContagemNumerosPares.genruntimeconfig.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\1_ContagemNumerosPares\obj\Debug\net6.0\ref\1_ContagemNumerosPares.dll

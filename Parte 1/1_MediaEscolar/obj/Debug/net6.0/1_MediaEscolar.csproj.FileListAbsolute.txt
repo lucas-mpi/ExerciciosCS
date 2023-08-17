@@ -1,0 +1,28 @@
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\1_MediaEscolar\bin\Debug\net6.0\1_MediaEscolar.exe
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\1_MediaEscolar\bin\Debug\net6.0\1_MediaEscolar.deps.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\1_MediaEscolar\bin\Debug\net6.0\1_MediaEscolar.runtimeconfig.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\1_MediaEscolar\bin\Debug\net6.0\1_MediaEscolar.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\1_MediaEscolar\bin\Debug\net6.0\1_MediaEscolar.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\1_MediaEscolar\obj\Debug\net6.0\1_MediaEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\1_MediaEscolar\obj\Debug\net6.0\1_MediaEscolar.AssemblyInfoInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\1_MediaEscolar\obj\Debug\net6.0\1_MediaEscolar.AssemblyInfo.cs
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\1_MediaEscolar\obj\Debug\net6.0\1_MediaEscolar.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\1_MediaEscolar\obj\Debug\net6.0\1_MediaEscolar.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\1_MediaEscolar\obj\Debug\net6.0\refint\1_MediaEscolar.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\1_MediaEscolar\obj\Debug\net6.0\1_MediaEscolar.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\1_MediaEscolar\obj\Debug\net6.0\1_MediaEscolar.genruntimeconfig.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\1_MediaEscolar\obj\Debug\net6.0\ref\1_MediaEscolar.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 1\1_MediaEscolar\bin\Debug\net6.0\1_MediaEscolar.exe
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 1\1_MediaEscolar\bin\Debug\net6.0\1_MediaEscolar.deps.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 1\1_MediaEscolar\bin\Debug\net6.0\1_MediaEscolar.runtimeconfig.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 1\1_MediaEscolar\bin\Debug\net6.0\1_MediaEscolar.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 1\1_MediaEscolar\bin\Debug\net6.0\1_MediaEscolar.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 1\1_MediaEscolar\obj\Debug\net6.0\1_MediaEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 1\1_MediaEscolar\obj\Debug\net6.0\1_MediaEscolar.AssemblyInfoInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 1\1_MediaEscolar\obj\Debug\net6.0\1_MediaEscolar.AssemblyInfo.cs
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 1\1_MediaEscolar\obj\Debug\net6.0\1_MediaEscolar.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 1\1_MediaEscolar\obj\Debug\net6.0\1_MediaEscolar.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 1\1_MediaEscolar\obj\Debug\net6.0\refint\1_MediaEscolar.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 1\1_MediaEscolar\obj\Debug\net6.0\1_MediaEscolar.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 1\1_MediaEscolar\obj\Debug\net6.0\1_MediaEscolar.genruntimeconfig.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 1\1_MediaEscolar\obj\Debug\net6.0\ref\1_MediaEscolar.dll

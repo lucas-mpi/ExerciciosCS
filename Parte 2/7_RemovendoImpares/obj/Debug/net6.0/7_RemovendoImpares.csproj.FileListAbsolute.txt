@@ -1,0 +1,14 @@
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\7_RemovendoImpares\bin\Debug\net6.0\7_RemovendoImpares.exe
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\7_RemovendoImpares\bin\Debug\net6.0\7_RemovendoImpares.deps.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\7_RemovendoImpares\bin\Debug\net6.0\7_RemovendoImpares.runtimeconfig.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\7_RemovendoImpares\bin\Debug\net6.0\7_RemovendoImpares.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\7_RemovendoImpares\bin\Debug\net6.0\7_RemovendoImpares.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\7_RemovendoImpares\obj\Debug\net6.0\7_RemovendoImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\7_RemovendoImpares\obj\Debug\net6.0\7_RemovendoImpares.AssemblyInfoInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\7_RemovendoImpares\obj\Debug\net6.0\7_RemovendoImpares.AssemblyInfo.cs
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\7_RemovendoImpares\obj\Debug\net6.0\7_RemovendoImpares.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\7_RemovendoImpares\obj\Debug\net6.0\7_RemovendoImpares.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\7_RemovendoImpares\obj\Debug\net6.0\refint\7_RemovendoImpares.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\7_RemovendoImpares\obj\Debug\net6.0\7_RemovendoImpares.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\7_RemovendoImpares\obj\Debug\net6.0\7_RemovendoImpares.genruntimeconfig.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\7_RemovendoImpares\obj\Debug\net6.0\ref\7_RemovendoImpares.dll

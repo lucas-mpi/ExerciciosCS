@@ -1,0 +1,14 @@
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\2_ContagemRegressiva\bin\Debug\net6.0\2_ContagemRegressiva.exe
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\2_ContagemRegressiva\bin\Debug\net6.0\2_ContagemRegressiva.deps.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\2_ContagemRegressiva\bin\Debug\net6.0\2_ContagemRegressiva.runtimeconfig.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\2_ContagemRegressiva\bin\Debug\net6.0\2_ContagemRegressiva.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\2_ContagemRegressiva\bin\Debug\net6.0\2_ContagemRegressiva.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\2_ContagemRegressiva\obj\Debug\net6.0\2_ContagemRegressiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\2_ContagemRegressiva\obj\Debug\net6.0\2_ContagemRegressiva.AssemblyInfoInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\2_ContagemRegressiva\obj\Debug\net6.0\2_ContagemRegressiva.AssemblyInfo.cs
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\2_ContagemRegressiva\obj\Debug\net6.0\2_ContagemRegressiva.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\2_ContagemRegressiva\obj\Debug\net6.0\2_ContagemRegressiva.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\2_ContagemRegressiva\obj\Debug\net6.0\refint\2_ContagemRegressiva.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\2_ContagemRegressiva\obj\Debug\net6.0\2_ContagemRegressiva.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\2_ContagemRegressiva\obj\Debug\net6.0\2_ContagemRegressiva.genruntimeconfig.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\2_ContagemRegressiva\obj\Debug\net6.0\ref\2_ContagemRegressiva.dll

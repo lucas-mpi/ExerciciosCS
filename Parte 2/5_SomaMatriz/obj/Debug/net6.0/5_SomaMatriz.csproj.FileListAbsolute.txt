@@ -1,0 +1,14 @@
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\5_SomaMatriz\bin\Debug\net6.0\5_SomaMatriz.exe
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\5_SomaMatriz\bin\Debug\net6.0\5_SomaMatriz.deps.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\5_SomaMatriz\bin\Debug\net6.0\5_SomaMatriz.runtimeconfig.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\5_SomaMatriz\bin\Debug\net6.0\5_SomaMatriz.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\5_SomaMatriz\bin\Debug\net6.0\5_SomaMatriz.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\5_SomaMatriz\obj\Debug\net6.0\5_SomaMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\5_SomaMatriz\obj\Debug\net6.0\5_SomaMatriz.AssemblyInfoInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\5_SomaMatriz\obj\Debug\net6.0\5_SomaMatriz.AssemblyInfo.cs
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\5_SomaMatriz\obj\Debug\net6.0\5_SomaMatriz.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\5_SomaMatriz\obj\Debug\net6.0\5_SomaMatriz.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\5_SomaMatriz\obj\Debug\net6.0\refint\5_SomaMatriz.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\5_SomaMatriz\obj\Debug\net6.0\5_SomaMatriz.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\5_SomaMatriz\obj\Debug\net6.0\5_SomaMatriz.genruntimeconfig.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\5_SomaMatriz\obj\Debug\net6.0\ref\5_SomaMatriz.dll

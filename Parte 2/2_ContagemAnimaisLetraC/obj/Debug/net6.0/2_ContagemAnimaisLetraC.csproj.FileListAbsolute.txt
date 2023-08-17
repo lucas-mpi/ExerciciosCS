@@ -1,0 +1,14 @@
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\2_ContagemAnimaisLetraC\bin\Debug\net6.0\2_ContagemAnimaisLetraC.exe
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\2_ContagemAnimaisLetraC\bin\Debug\net6.0\2_ContagemAnimaisLetraC.deps.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\2_ContagemAnimaisLetraC\bin\Debug\net6.0\2_ContagemAnimaisLetraC.runtimeconfig.json
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\2_ContagemAnimaisLetraC\bin\Debug\net6.0\2_ContagemAnimaisLetraC.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\2_ContagemAnimaisLetraC\bin\Debug\net6.0\2_ContagemAnimaisLetraC.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\2_ContagemAnimaisLetraC\obj\Debug\net6.0\2_ContagemAnimaisLetraC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\2_ContagemAnimaisLetraC\obj\Debug\net6.0\2_ContagemAnimaisLetraC.AssemblyInfoInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\2_ContagemAnimaisLetraC\obj\Debug\net6.0\2_ContagemAnimaisLetraC.AssemblyInfo.cs
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\2_ContagemAnimaisLetraC\obj\Debug\net6.0\2_ContagemAnimaisLetraC.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\2_ContagemAnimaisLetraC\obj\Debug\net6.0\2_ContagemAnimaisLetraC.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\2_ContagemAnimaisLetraC\obj\Debug\net6.0\refint\2_ContagemAnimaisLetraC.dll
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\2_ContagemAnimaisLetraC\obj\Debug\net6.0\2_ContagemAnimaisLetraC.pdb
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\2_ContagemAnimaisLetraC\obj\Debug\net6.0\2_ContagemAnimaisLetraC.genruntimeconfig.cache
+C:\Users\lucas\Meu Drive\Matérias\3. Programação Orientada a Objetos\ExerciciosCS\Parte 2\2_ContagemAnimaisLetraC\obj\Debug\net6.0\ref\2_ContagemAnimaisLetraC.dll
